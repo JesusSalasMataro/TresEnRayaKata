@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TresEnRaya", "TresEnRaya\TresEnRaya.csproj", "{384A640A-62E8-4901-BC60-5F7E63F1C61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{DB4E20DB-843E-447D-A26A-14D1790AEDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384A640A-62E8-4901-BC60-5F7E63F1C61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384A640A-62E8-4901-BC60-5F7E63F1C61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384A640A-62E8-4901-BC60-5F7E63F1C61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384A640A-62E8-4901-BC60-5F7E63F1C61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4E20DB-843E-447D-A26A-14D1790AEDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4E20DB-843E-447D-A26A-14D1790AEDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4E20DB-843E-447D-A26A-14D1790AEDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4E20DB-843E-447D-A26A-14D1790AEDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

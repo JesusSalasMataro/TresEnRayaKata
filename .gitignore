@@ -1,7 +1,9 @@
 TestResults
-TresEnRaya
-UnitTestProject1
-TresEnRaya.sln
+TresEnRaya/bin
+TresEnRaya/obj
+TresEnRaya/TresEnRaya.csproj.user
+UnitTestProject1/bin
+UnitTestProject1/obj
 TresEnRaya.v11.suo
 
 
